@@ -1,0 +1,8 @@
+apply plugin: 'java'
+
+repositories {
+	mavenLocal()
+}
+dependencies {
+    compile ('com.kilo:sample-maven-lib:1.0.0-SNAPSHOT')
+}
