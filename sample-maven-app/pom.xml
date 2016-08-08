@@ -19,11 +19,6 @@
 	</build>
     <dependencies>
     	<dependency>
-    		<groupId>org.springframework</groupId>
-    		<artifactId>spring-beans</artifactId>
-    		<version>4.2.6.RELEASE</version>
-    	</dependency>
-    	<dependency>
     		<groupId>com.kilo</groupId>
     		<artifactId>sample-maven-lib</artifactId>
     		<version>1.0.0-SNAPSHOT</version>

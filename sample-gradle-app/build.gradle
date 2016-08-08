@@ -4,6 +4,5 @@ repositories {
 	mavenLocal()
 }
 dependencies {
-    compile 'org.springframework:spring-beans:4.2.6.RELEASE'
     compile 'com.kilo:sample-maven-lib:1.0.0-SNAPSHOT'
 }
